@@ -60,7 +60,7 @@ OptiFuel est une application web **en production**, utilisée au quotidien par l
 ## 🏗️ Architecture
 
 ```mermaid
-flowchart LR
+flowchart TB
     U([👤 Chauffeurs · Admins])
     PF([📧 Avis de prix<br/>fournisseurs])
 
